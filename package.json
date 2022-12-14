@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "eslint": "eslint src",
+    "eslint-fix": "npm run eslint -- --fix"
+  },
+  "devDependencies": {
+    "eslint": "^8.29.0",
+    "eslint-config-cheminfo": "^8.1.3"
+  }
+}
